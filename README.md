@@ -73,7 +73,7 @@
 </p>
 
 ## ❤ for Stars and Followers
-<a href="https://github.com/shashank-indukuri">
-    <img src="https://komarev.com/ghpvc/?username=shashank-indukuri" alt="">
+<a href="https://github.com/Pitayafruits">
+    <img src="https://komarev.com/ghpvc/?username=Pitayafruits" alt="">
 </a>
-<a href="https://github.com/shashank-indukuri?tab=followers"><img src="https://img.shields.io/github/followers/shashank-indukuri?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Pitayafruits?tab=followers"><img src="https://img.shields.io/github/followers/shashank-indukuri?label=Followers&style=social" alt="GitHub Badge"></a>
