@@ -56,13 +56,13 @@
 
 <br/>
 
-<a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashank-indukuri&bg_color=0D1117&color=9645F4&line=9645F4&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shashank-indukuri"><img alt="Pitayafruits's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pitayafruits&bg_color=0D1117&color=9645F4&line=9645F4&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 ## My Github Trophies:
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Shashank Indukuri's Trophies" src="https://github-profile-trophy.vercel.app/?username=shashank-indukuri&theme=darkhub&rank=AAA,AA,A,BB,B" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Pitayafruits's Trophies" src="https://github-profile-trophy.vercel.app/?username=Pitayafruits&theme=darkhub&rank=AAA,AA,A,BB,B" /></a>
 
 ## Connect with me:
 <p align="left">
