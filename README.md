@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="325" src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211092101260.png" height="320px" /></a>
 
 <h1 align="center">Hi <img src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211091636876.gif" width="35">, I'm Pitayafruits(@Pitayafruits)</h1>
-<h3 align="center">I'm a Future Back Stack Developer!</h3>
+<h3 align="center">I'm a Future Backend Developer!</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -49,8 +49,8 @@
 
   <br/>
   <p>
-    <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashank-indukuri&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-indukuri&langs_count=7&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pitayafruits&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitayafruits&langs_count=7&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
  </p>
   <br/>
 
