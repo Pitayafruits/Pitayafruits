@@ -1,8 +1,3 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Pitayafruits&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pitayafruits&theme=radical">
-</p>
-
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
@@ -19,7 +14,10 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Pitayafruits&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pitayafruits&theme=radical">
+</p>
  
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
