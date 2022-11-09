@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="325" src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211092101260.png" height="320px" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Pitayafruits(@Pitayafruits)</h1>
+<h1 align="center">Hi <img src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211091636876.gif" width="35">, I'm Pitayafruits(@Pitayafruits)</h1>
 <h3 align="center">I'm a Future Back Stack Developer!</h3>
 
 
