@@ -67,7 +67,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.pitayafruit.club/"><img src="https://icons8.com/icon/79041/blogger"/></a>
+<a href = "https://www.pitayafruit.club/"><img src="https://img.icons8.com/nolan/64/blogger.png"/></a>
 <a href = "mailto:1037153356@qq.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
 </p>
