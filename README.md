@@ -1,57 +1,84 @@
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<a href="#"><img width="100%" height="325" src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211092101260.png" height="320px" /></a>
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Shashank Indukuri(@shashank-indukuri)</h1>
+<h3 align="center">I'm a passionate Full Stack Developer!</h3>
+
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently learning **iOS Application Development(Swift 5.5) and Java Spring Boot**.
+
+- 🌱 I'm interested in learning new technologies and **creating amazing websites and mobile apps**.
+
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
+
+- 👨‍💻 All of my work is available at **[My Portfolio](https://portfolio-53108.web.app/)**
+
+- 📫 You can reach me by mailing to **shashank.indukuri05@gmail.com**
+
+- ⚡ Fun fact **I love playing games. One of the favourite is FIFA.**
+
+- 😄 Pronouns: He/Him
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+<br/>
+
 <p align="center">
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+    <a href="https://github.com/shashank-indukuri">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashank Indukuri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-indukuri&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Pitayafruits&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pitayafruits&theme=radical">
+## 📊 My Github Stats
+
+  <br/>
+  <p>
+    <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashank-indukuri&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-indukuri&langs_count=7&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+ </p>
+  <br/>
+
+<br/>
+
+<a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashank-indukuri&bg_color=0D1117&color=9645F4&line=9645F4&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+## My Github Trophies:
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Shashank Indukuri's Trophies" src="https://github-profile-trophy.vercel.app/?username=shashank-indukuri&theme=darkhub&rank=AAA,AA,A,BB,B" /></a>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shashank-indukuri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:shashank.indukuri05@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "https://twitter.com/Shashankvarma5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/shashank_indukuri/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 </p>
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
-</p>
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
-
-
-个人简介：CSDN原力计划作者，掘金优秀作者，资讯创作者，公众号【海拥】，全网粉丝10万+。我是一个爱好计算机科学，求索于逻辑思维的同时不忘哲学和浪漫主义科学，乐于分享技术与快乐的博主。博文内容涉及Java，Python，HTML/CSS/JS及SEO，数据结构等。
-
-
-
-<marquee><b><font color="#e66b6d">双</font>
-				<font color="#e66d98">手</font>
-				<font color="#e66cc6">合</font>
-				<font color="#cc6de6">十</font>
-				<font color="#9770e6">成</font>
-				<font color="#6d93e6">为</font>
-				<font color="#6fcde6">自</font>
-				<font color="#72e6b6">己</font>
-				<font color="#72e689">的</font>
-				<font color="#99e670">神</font>, 
-				<font color="#cde670">自</font>
-				<font color="#e6df72">己</font>
-				<font color="#e6c073">所</font>
-				<font color="#e6a271">信</font>
-				<font color="#e6796f">念</font>
-				<font color="#e65454">的</font>
-				<font color="#e63333">即</font>
-				<font color="#e62c2c">是</font>
-				<font color="#e60101">信</font>
-				<font color="#e60101">仰</font></b> 
-</marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
-  <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
-  <a href="https://juejin.cn/user/2040341402229751/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金" /></a>
-  <a href="https://space.bilibili.com/63551025"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical" alt="哔哩哔哩" /></a>
-<a href="https://bbs.huaweicloud.com/community/usersnew/id_1628036118897599"><img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" alt="%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" /></a>
-  <a href="https://bbs.csdn.net/forums/moyu"><img src="https://img.shields.io/badge/CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" alt="CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" /></a>
-<a href="https://github.com/wanghao221/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
-<a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
-</p>
+## ❤ for Stars and Followers
+<a href="https://github.com/shashank-indukuri">
+    <img src="https://komarev.com/ghpvc/?username=shashank-indukuri" alt="">
+</a>
+<a href="https://github.com/shashank-indukuri?tab=followers"><img src="https://img.shields.io/github/followers/shashank-indukuri?label=Followers&style=social" alt="GitHub Badge"></a>
