@@ -1,22 +1,20 @@
 <a href="#"><img width="100%" height="325" src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211092101260.png" height="320px" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Shashank Indukuri(@shashank-indukuri)</h1>
-<h3 align="center">I'm a passionate Full Stack Developer!</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Pitayafruits(@Pitayafruits)</h1>
+<h3 align="center">I'm a Future Back Stack Developer!</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **iOS Application Development(Swift 5.5) and Java Spring Boot**.
+- 🔭 I’m currently learning **Java Spring Cloud**.
 
-- 🌱 I'm interested in learning new technologies and **creating amazing websites and mobile apps**.
+- 🌱 I'm interested in learning new technologies and **creating amazing websites**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my work is available at **[My Portfolio](https://portfolio-53108.web.app/)**
+- 📫 You can reach me by mailing to **1037153356@qq.com**
 
-- 📫 You can reach me by mailing to **shashank.indukuri05@gmail.com**
-
-- ⚡ Fun fact **I love playing games. One of the favourite is FIFA.**
+- ⚡ Fun fact **I love playing games. One of the favourite is APEX.**
 
 - 😄 Pronouns: He/Him
 
