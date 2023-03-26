@@ -1,7 +1,7 @@
 ### 我是Pitayafruits
 
 - :dog: 23年毕业，励志成为一名技术大牛的后端程序员。
-- :man_technologist: 学习：有了重学四大件的想法。
+- :man_technologist: 学习：2023.03.26-有了重学四大件的想法。
 - :pencil: 博客：[pitayafruit.club](https://www.pitayafruit.club)
 - :love_letter: 邮箱：[1037153356@qq.com](1037153356@qq.com) - 与我交流
 
