@@ -1,7 +1,7 @@
 ### 我是Pitayafruits
 
 - :dog: 23年毕业，励志成为一名技术大牛的后端程序员。
-- :man_technologist: 学习：2023.04.05-看看设计模式。
+- :man_technologist: 学习：2023.04.12-学习多线程中......
 - :pencil: 博客：[pitayafruit.club](https://www.pitayafruit.club)
 - :love_letter: 邮箱：[1037153356@qq.com](1037153356@qq.com) - 与我交流
 
