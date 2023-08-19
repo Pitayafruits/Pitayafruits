@@ -3,7 +3,7 @@
 - :dog: 23年毕业，励志成为一名技术大牛的后端程序员。
 - :man_technologist: 学习：2023.07.21-开始阅读《跟闪电侠学Netty》......
 - :pencil: 博客：[pitayafruit.club](https://www.pitayafruit.club)
-- :love_letter: 邮箱：[1037153356@qq.com](pitaya.cc@qq.com) - 与我交流
+- :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
 - :tv: 视频：[B站 Pitayafruits](https://space.bilibili.com/1543670243)
 
 ### 今年的努力 ✨
