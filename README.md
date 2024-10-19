@@ -1,8 +1,8 @@
 ### 我是Pitayafruits
 
 - :dog: 23年毕业，励志成为一名技术大牛的后端程序员。
-- :man_technologist: 学习：2023.12.18 最近在玩工作流
-- :pencil: 博客：[pitayafruit.club](https://www.pitayafruit.club)
+- :man_technologist: 学习：2024.10.18 研究API网关中.....
+- :pencil: 博客：[pitayafruit.club](https://www.pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
 - :tv: 视频：[B站 Pitayafruits](https://space.bilibili.com/1543670243)
 
