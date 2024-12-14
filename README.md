@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: 在努力成为全栈中....
+- :dog: 下一个项目还是用golang吧.....
 - :man_technologist: 学习：2024.12.10 最近在写分布式锁专栏中，感兴趣的指路我的博客去看看吧！
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
