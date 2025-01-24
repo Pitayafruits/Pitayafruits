@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: 希望可以变得越来越强.......
+- :dog: 过年了 休息下吧
 - :man_technologist: 2025.01.19 分布式锁专栏07篇完成.....
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
