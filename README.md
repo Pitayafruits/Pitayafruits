@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: 准备比赛中,trae构建后端项目的效率感觉不如手撸
+- :dog: 文档难写，代码易得
 - :man_technologist: 2025.03.07 olw的使用体验没想象中好...
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
