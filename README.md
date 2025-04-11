@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: 金石活动终于回归了
+- :dog: 距离独立开发的技能树还差UI
 - :man_technologist: 2025.04.05 netty是个好东西......
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
