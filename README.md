@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: 分配一些精力学学Figma吧
+- :dog: 分配一些精力学学Figma
 - :man_technologist: 2025.04.07 idea -> use flutter -> ios app  
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
