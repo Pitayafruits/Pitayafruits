@@ -1,7 +1,7 @@
 ### 我是Pitayafruits
 
 - :dog: LLM让水文博客的数量直线上升
-- :man_technologist: 2025.04.07 idea -> use flutter -> app
+- :man_technologist: 2025.04.07 idea -> use flutter -> ios app
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
 - :tv: 视频：[B站 Pitayafruits](https://space.bilibili.com/1543670243)
