@@ -1,7 +1,7 @@
 ### 我是Pitayafruits
 
 - :dog: 6月开始做自己的APP咯
-- :man_technologist: 2025.05.23 google的I/O大会是真有料
+- :man_technologist: 2025.05.29 calude 4 yyds
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
 - :tv: 视频：[B站 Pitayafruits](https://space.bilibili.com/1543670243)
