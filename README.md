@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: dart上手挺快的
+- :dog: 明天要做个线上访谈
 - :man_technologist: 2025.05.30 xcode只有两个作用-初始化项目 and 打包项目
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
