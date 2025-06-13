@@ -1,6 +1,6 @@
 ### 我是Pitayafruits
 
-- :dog: 三大件的发挥空间有限
+- :dog: 写文章遇到瓶颈了.....
 - :man_technologist: 2025.06.10 每个月都有一些要忙的事情 
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
