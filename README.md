@@ -1,7 +1,7 @@
 ### 我是Pitayafruits
 
 - :dog: 写文章遇到瓶颈了.....
-- :man_technologist: 2025.06.10 每个月都有一些要忙的事情 
+- :man_technologist: 2025.06.17 有时候，我希望人也可以做到多线程。 
 - :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
 - :tv: 视频：[B站 Pitayafruits](https://space.bilibili.com/1543670243)
