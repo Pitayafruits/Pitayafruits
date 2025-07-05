@@ -2,7 +2,7 @@
 
 - :dog: 玩电脑还得从娃娃抓起，切Mac一年了，还是感觉win用的更顺手🫠
 - :man_technologist: 2025.07.02 正式内部转岗负责产品工作，职业生涯的一个新起点吧
-- :pencil: 博客：[pitayafruit.club](https://juejin.cn/user/4095037267779687)
+- :pencil: [博客](https://juejin.cn/user/4095037267779687)
 - :love_letter: 邮箱：[pitaya.cc@qq.com](pitaya.cc@qq.com) - 与我交流
 - :tv: 视频：[B站 Pitayafruits](https://space.bilibili.com/1543670243)
 
